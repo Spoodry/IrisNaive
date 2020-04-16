@@ -11,3 +11,14 @@ C:\Users\Juan Pablo\source\repos\IrisNaive\IrisNaive\obj\Debug\netcoreapp3.1\Iri
 C:\Users\Juan Pablo\source\repos\IrisNaive\IrisNaive\obj\Debug\netcoreapp3.1\IrisNaive.dll
 C:\Users\Juan Pablo\source\repos\IrisNaive\IrisNaive\obj\Debug\netcoreapp3.1\IrisNaive.pdb
 C:\Users\Juan Pablo\source\repos\IrisNaive\IrisNaive\obj\Debug\netcoreapp3.1\IrisNaive.genruntimeconfig.cache
+C:\Users\Suben\source\repos\IrisNaive\IrisNaive\bin\Debug\netcoreapp3.1\IrisNaive.exe
+C:\Users\Suben\source\repos\IrisNaive\IrisNaive\bin\Debug\netcoreapp3.1\IrisNaive.deps.json
+C:\Users\Suben\source\repos\IrisNaive\IrisNaive\bin\Debug\netcoreapp3.1\IrisNaive.runtimeconfig.json
+C:\Users\Suben\source\repos\IrisNaive\IrisNaive\bin\Debug\netcoreapp3.1\IrisNaive.runtimeconfig.dev.json
+C:\Users\Suben\source\repos\IrisNaive\IrisNaive\bin\Debug\netcoreapp3.1\IrisNaive.dll
+C:\Users\Suben\source\repos\IrisNaive\IrisNaive\bin\Debug\netcoreapp3.1\IrisNaive.pdb
+C:\Users\Suben\source\repos\IrisNaive\IrisNaive\obj\Debug\netcoreapp3.1\IrisNaive.csprojAssemblyReference.cache
+C:\Users\Suben\source\repos\IrisNaive\IrisNaive\obj\Debug\netcoreapp3.1\IrisNaive.AssemblyInfoInputs.cache
+C:\Users\Suben\source\repos\IrisNaive\IrisNaive\obj\Debug\netcoreapp3.1\IrisNaive.AssemblyInfo.cs
+C:\Users\Suben\source\repos\IrisNaive\IrisNaive\obj\Debug\netcoreapp3.1\IrisNaive.dll
+C:\Users\Suben\source\repos\IrisNaive\IrisNaive\obj\Debug\netcoreapp3.1\IrisNaive.pdb
